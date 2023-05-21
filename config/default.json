@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb://localhost:27017/ts-poc?authSource=admin",
+  "jwtSecret": "sjkshfosifasafosiehfoiwfeSFESR",
+  "jwtExpiration": 360000
+}
